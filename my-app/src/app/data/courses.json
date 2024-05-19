@@ -1,0 +1,75 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar for Beginners",
+        "slug": "guitar-for-beginners",
+        "description": "Learn the basics of playing the guitar, including chords, strumming patterns, and simple songs.",
+        "price": 39.99,
+        "instructor": "Alice Cooper",
+        "isFeatured": true,
+        "image": "https://example.com/images/guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Mastering Piano",
+        "slug": "mastering-piano",
+        "description": "Advanced piano techniques and music theory for experienced players.",
+        "price": 59.99,
+        "instructor": "Bob Marley",
+        "isFeatured": true,
+        "image": "https://example.com/images/piano.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Music Production with Ableton Live",
+        "slug": "music-production-ableton",
+        "description": "Learn how to produce, mix, and master music using Ableton Live.",
+        "price": 99.99,
+        "instructor": "Charlie Puth",
+        "isFeatured": false,
+        "image": "https://example.com/images/ableton.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Singing Techniques for All Levels",
+        "slug": "singing-techniques",
+        "description": "Improve your singing voice with professional techniques and exercises.",
+        "price": 49.99,
+        "instructor": "Diana Ross",
+        "isFeatured": true,
+        "image": "https://example.com/images/singing.jpg"
+      },
+      {
+        "id": 5,
+        "title": "DJing for Beginners",
+        "slug": "djing-for-beginners",
+        "description": "Learn the basics of DJing, including beatmatching, mixing, and song selection.",
+        "price": 69.99,
+        "instructor": "Eddie Van Halen",
+        "isFeatured": false,
+        "image": "https://example.com/images/djing.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Violin Mastery",
+        "slug": "violin-mastery",
+        "description": "Advanced techniques and pieces for violinists looking to master their instrument.",
+        "price": 79.99,
+        "instructor": "Fiona Apple",
+        "isFeatured": true,
+        "image": "https://example.com/images/violin.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Introduction to Music Theory",
+        "slug": "intro-to-music-theory",
+        "description": "Understand the fundamentals of music theory, including scales, chords, and harmony.",
+        "price": 29.99,
+        "instructor": "George Harrison",
+        "isFeatured": false,
+        "image": "https://example.com/images/music-theory.jpg"
+      }
+    ]
+  }
+  
