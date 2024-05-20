@@ -43,8 +43,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <title>My App</title>
       </head>
       <body>
-        <div>
-         <Navbar/>   
+        <div className=" h-screen">
+         <Navbar/>  
+         {children} 
         </div>
       </body>
     </html>
