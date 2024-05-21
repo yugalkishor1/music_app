@@ -1,6 +1,7 @@
 import "./globals.css";
 import Navbar from "./components/Navbar";
 import React from "react";
+import SpotlightPreview  from "./components/SpotlightPreview";
 
 // export default function RootLayout({
 //   children,
@@ -39,12 +40,10 @@ import React from "react";
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html>
-      <head>
-        <title>My App</title>
-      </head>
       <body>
-        <div className=" h-screen">
+        <div>
          <Navbar/>  
+         <SpotlightPreview/>
          {children} 
         </div>
       </body>

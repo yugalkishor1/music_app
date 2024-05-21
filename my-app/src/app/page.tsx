@@ -1,10 +1,8 @@
 import Herosection from "./components/Herosection";
-
+import SpotlightPreview from "./components/SpotlightPreview";
 export default function Page() {
   return (
-    <div 
-    className="h-auto md:h-[40rem] w-full rounded-md flex flex-col items-center justify-center relative overflow-hidden mx-auto py-10 md:py-0"
-    >
+    <div className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
       <Herosection/>
     </div>
   );
