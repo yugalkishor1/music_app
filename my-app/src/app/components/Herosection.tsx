@@ -13,7 +13,7 @@ function Herosection() {
           <Button 
             borderRadius="10rem"
             // className=" dark:bg-slate-900 dark:text-white border-neutral-200 dark:border-slate-800"
-            duration={1500}
+            duration={2000}
           >
             Explore
           </Button>
